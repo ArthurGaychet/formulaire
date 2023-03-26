@@ -9,10 +9,10 @@
 </head>
 
 <body>
-    <form action="thanks.php" method="post">
+    <form action="/thanks.php" method="post">
         <div>
             <label for="prenom">Prénom :</label>
-            <input type="text" id="prenom" name="user_firstname">
+            <input type="text" id="nom" name="user_firstname">
         </div>
         <div>
             <label for="nom">Nom :</label>
